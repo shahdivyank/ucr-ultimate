@@ -1,0 +1,25 @@
+.joinUs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.map {
+    width: 90vw;
+    height: 40vw;
+    border: 0;
+}
+
+.joinUs a {
+    color: #2D6CC0;
+    text-decoration: none;
+}
+
+.joinUs a:hover {
+    color: #F1AB00;
+}
+
+.joinUs h4 {
+    text-align: center;
+}

@@ -1,0 +1,21 @@
+.homeContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 1%;
+}
+
+.frontImg {
+    min-height: 100%;
+    min-width: 100%;
+}
+
+.text {
+    padding: 1%;
+    text-align: center;
+}
+
+.joinButton {
+    padding: 8px 20px;
+}

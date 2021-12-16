@@ -1,0 +1,11 @@
+.navbar {
+    background-color: #003066 !important;
+    padding: 10px;
+}
+
+.navbar .navitem {
+    color: white !important;
+    text-decoration: none;
+    margin: 0px 10px;
+}
+
