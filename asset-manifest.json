@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ucr-ultimate/static/css/main.629cb9e1.chunk.css",
+    "main.js": "/ucr-ultimate/static/js/main.05608de2.chunk.js",
+    "main.js.map": "/ucr-ultimate/static/js/main.05608de2.chunk.js.map",
+    "runtime-main.js": "/ucr-ultimate/static/js/runtime-main.8f03fce3.js",
+    "runtime-main.js.map": "/ucr-ultimate/static/js/runtime-main.8f03fce3.js.map",
+    "static/css/2.4eaf0b3b.chunk.css": "/ucr-ultimate/static/css/2.4eaf0b3b.chunk.css",
+    "static/js/2.2bb2fec7.chunk.js": "/ucr-ultimate/static/js/2.2bb2fec7.chunk.js",
+    "static/js/2.2bb2fec7.chunk.js.map": "/ucr-ultimate/static/js/2.2bb2fec7.chunk.js.map",
+    "static/js/3.44ca0621.chunk.js": "/ucr-ultimate/static/js/3.44ca0621.chunk.js",
+    "static/js/3.44ca0621.chunk.js.map": "/ucr-ultimate/static/js/3.44ca0621.chunk.js.map",
+    "index.html": "/ucr-ultimate/index.html",
+    "static/css/2.4eaf0b3b.chunk.css.map": "/ucr-ultimate/static/css/2.4eaf0b3b.chunk.css.map",
+    "static/css/main.629cb9e1.chunk.css.map": "/ucr-ultimate/static/css/main.629cb9e1.chunk.css.map",
+    "static/js/2.2bb2fec7.chunk.js.LICENSE.txt": "/ucr-ultimate/static/js/2.2bb2fec7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f03fce3.js",
+    "static/css/2.4eaf0b3b.chunk.css",
+    "static/js/2.2bb2fec7.chunk.js",
+    "static/css/main.629cb9e1.chunk.css",
+    "static/js/main.05608de2.chunk.js"
+  ]
+}
