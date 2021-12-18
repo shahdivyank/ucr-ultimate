@@ -9,7 +9,6 @@ let styles = {
         borderWidth: "0",
         background: "white",
         margin: "0",
-        padding: "0",
         borderRadius: "15px",
         padding: "10px",
         color: "#003066"

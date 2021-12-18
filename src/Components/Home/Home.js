@@ -17,7 +17,7 @@ function Home() {
                     <Row>
                         <Col lg={6} md = {12}>
                             <div className='img-container'>
-                                <img className="frontImg" src="https://content.sportslogos.net/news/2020/07/primary-590x344.png"></img>
+                                <img className="frontImg" src="https://content.sportslogos.net/news/2020/07/primary-590x344.png" alt="Home"></img>
                             </div>
                         </Col>
                         <Col lg={6} md = {12}>
