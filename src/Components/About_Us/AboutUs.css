@@ -1,4 +1,9 @@
-.aboutText {
+#about-us {
+    /* background-color: #003066; */
+    color: white;
+}
+
+#about-us .aboutText, .img-container {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -8,4 +13,8 @@
 
 .aboutDescription p {
     text-align: center;
+}
+
+#about-us .frontImg {
+    width: 100%;
 }

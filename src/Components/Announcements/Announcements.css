@@ -1,0 +1,16 @@
+#announcements {
+    /* background: #003066; */
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#announcements h4, p {
+    text-align: center;
+}
+
+#announcements p {
+    width: 75%;
+}
