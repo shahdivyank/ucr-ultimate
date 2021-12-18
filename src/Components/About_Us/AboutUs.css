@@ -1,7 +1,6 @@
 #about-us {
     background-color: #003066;
     color: white;
-
     position: relative;
 }
 
@@ -26,6 +25,7 @@
     font-family: 'IBM Plex Serif', serif;
     font-size: 2.25em;
     line-height: 1.5;
+    text-align: center;
 }
 
 #about-us .text-font {
@@ -42,3 +42,14 @@
     width: 100%;
     border-radius: 10px;
 }
+
+@media (max-width: 600px) {
+    #about-us .text-font {
+        font-size: 1em;
+    }
+
+    #about-us .title-font {
+        font-size: 1.5em;
+    }
+
+  }

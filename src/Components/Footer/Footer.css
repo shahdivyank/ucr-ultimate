@@ -34,3 +34,13 @@
     font-size: 1.75em;
     line-height: 1.5;
 }
+
+@media (max-width: 600px) {
+    .bottom .text-font {
+        font-size: 1.25em;
+    }
+
+    .bottom .title-font {
+        font-size: 1em;
+    }
+  }

@@ -27,10 +27,8 @@
 }
 
 .joinUs a {
-    /* color: #2D6CC0; */
     color: #F1AB00;
     text-decoration: none;
-    /* font-size: 1.25em; */
 }
 
 .joinUs a:hover {
@@ -54,4 +52,14 @@
     font-size: 1.3em;
     line-height: 1.5;
 }
+
+@media (max-width: 600px) {
+    .joinUs .text-font {
+        font-size: 1em;
+    }
+
+    .joinUs .title-font {
+        font-size: 1.5em;
+    }
+  }
 

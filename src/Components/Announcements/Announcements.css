@@ -35,3 +35,13 @@
     font-size: 1.3em;
     line-height: 1.5;
 }
+
+@media (max-width: 600px) {
+    #announcements .text-font {
+        font-size: 1em;
+    }
+
+    #announcements .title-font {
+        font-size: 1.5em;
+    }
+  }

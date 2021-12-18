@@ -56,3 +56,18 @@
     background: #F1AB00;
 }
 
+
+@media (max-width: 600px) {
+    #home .text-font {
+        font-size: 1em;
+    }
+
+    #home .title-font {
+        font-size: 1.5em;
+    }
+
+    #home .header {
+        font-size: 2em;
+    }
+  }
+

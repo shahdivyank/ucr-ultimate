@@ -15,7 +15,7 @@ function AboutUs() {
                                 <h2 className="aboutUltimate title-font">About UCR Ultimate</h2>
                                 <p className="aboutDescription text-font">
                                     We play every Tuesday and Thursday from 8-10pm at the UCR Sports Complex on the corner of Blaine and Canyon Crest.
-                                    Haven’t played before!? Neither did we! We have players of all skill levels who know how to throw forehands, 
+                                    Haven’t played before!? Neither did we! We have players of all skill levels who know how to throw forehands,
                                     backhands, flicks, hucks, and more. We’ll teach you how to catch all of those, as well as the ins and outs of Ultimate,
                                     dumping (only the ultimate kind), skying, cutting, and more.
                                 </p>

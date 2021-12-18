@@ -30,3 +30,12 @@
     font-family: 'Mukta', sans-serif;
     font-size: 1.25em;
 }
+
+@media (max-width: 600px) {
+    .navbar .text-font {
+        font-size: .9em;
+    }
+  }
+
+
+ 
