@@ -21,7 +21,7 @@ function App() {
                     <AboutUs />
                     <JoinUs />
                     <Announcements />
-                    <Team />
+                    {/* <Team /> */}
                     <Footer />
 
                 </Router>

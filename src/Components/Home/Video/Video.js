@@ -5,7 +5,7 @@ import "./Video.css"
 function Video() {
     return (
         <div className='video-container'>
-            <video autoPlay loop muted>
+            <video playsinline autoPlay loop muted>
                 <source src= {video} type='video/mp4'/>
             </video>
             <div className='cover'></div>

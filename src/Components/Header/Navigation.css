@@ -1,16 +1,7 @@
-/* .menu {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-} */
-
 .navbar {
     background-color: #003066 !important;
     /* background-color: #2D6CC0; */
     /* background-color: black; */
-    /* opacity: .5; */
-    /* padding: 10px; */
     margin: 0;
     padding: 10px;
 }
@@ -29,4 +20,3 @@
 .navbar .navitem:hover {
     color: #F1AB00;
 }   
-

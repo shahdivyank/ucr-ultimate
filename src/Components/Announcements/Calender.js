@@ -11,7 +11,7 @@ let styles = {
         margin: "0",
         borderRadius: "15px",
         padding: "10px",
-        color: "#003066"
+        color: "#003066",
     },
 
     day: {
@@ -50,7 +50,7 @@ function Calender() {
             style={{
                 display: "flex",
                 justifyContent: "center",
-                alignItems: "center"
+                alignItems: "center", 
             }}>
             <div style={{ width: "90%" }}>
                 <Calendar apiKey={API_KEY} calendars={calendars} styles={styles} />

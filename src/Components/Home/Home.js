@@ -10,8 +10,9 @@ import Video from "./Video/Video"
 function Home() {
     return (
         <section id="home">
-            <h1>UC Riverside Ultimate Frisbee</h1>
             <Separator height="10" />
+            <h1>UC Riverside Ultimate Frisbee</h1>
+            <Separator height="2" />
             <Video/>
                 <Container>
                     <Row>
