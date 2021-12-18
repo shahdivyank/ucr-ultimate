@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ucr-ultimate/static/css/main.4ad9bc09.chunk.css",
-    "main.js": "/ucr-ultimate/static/js/main.026a961e.chunk.js",
-    "main.js.map": "/ucr-ultimate/static/js/main.026a961e.chunk.js.map",
+    "main.css": "/ucr-ultimate/static/css/main.7a4a0443.chunk.css",
+    "main.js": "/ucr-ultimate/static/js/main.041a1a6a.chunk.js",
+    "main.js.map": "/ucr-ultimate/static/js/main.041a1a6a.chunk.js.map",
     "runtime-main.js": "/ucr-ultimate/static/js/runtime-main.48cbf985.js",
     "runtime-main.js.map": "/ucr-ultimate/static/js/runtime-main.48cbf985.js.map",
     "static/css/2.4eaf0b3b.chunk.css": "/ucr-ultimate/static/css/2.4eaf0b3b.chunk.css",
@@ -12,15 +12,15 @@
     "static/js/3.f55a6e84.chunk.js.map": "/ucr-ultimate/static/js/3.f55a6e84.chunk.js.map",
     "index.html": "/ucr-ultimate/index.html",
     "static/css/2.4eaf0b3b.chunk.css.map": "/ucr-ultimate/static/css/2.4eaf0b3b.chunk.css.map",
-    "static/css/main.4ad9bc09.chunk.css.map": "/ucr-ultimate/static/css/main.4ad9bc09.chunk.css.map",
+    "static/css/main.7a4a0443.chunk.css.map": "/ucr-ultimate/static/css/main.7a4a0443.chunk.css.map",
     "static/js/2.4dec1103.chunk.js.LICENSE.txt": "/ucr-ultimate/static/js/2.4dec1103.chunk.js.LICENSE.txt",
-    "static/media/video.e7297fc7.mp4": "/ucr-ultimate/static/media/video.e7297fc7.mp4"
+    "static/media/video.6bf28911.mov": "/ucr-ultimate/static/media/video.6bf28911.mov"
   },
   "entrypoints": [
     "static/js/runtime-main.48cbf985.js",
     "static/css/2.4eaf0b3b.chunk.css",
     "static/js/2.4dec1103.chunk.js",
-    "static/css/main.4ad9bc09.chunk.css",
-    "static/js/main.026a961e.chunk.js"
+    "static/css/main.7a4a0443.chunk.css",
+    "static/js/main.041a1a6a.chunk.js"
   ]
 }
