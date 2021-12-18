@@ -1,5 +1,5 @@
 .navbar {
-    background-color: #003066 !important;
+    background-color: #030e1f ;
     /* background-color: #2D6CC0; */
     /* background-color: black; */
     margin: 0;
@@ -20,3 +20,13 @@
 .navbar .navitem:hover {
     color: #F1AB00;
 }   
+
+.navbar .title-font {
+    font-family: 'IBM Plex Serif', serif;
+    font-size: 1em;
+}
+
+.navbar .text-font {
+    font-family: 'Mukta', sans-serif;
+    font-size: 1.25em;
+}

@@ -12,6 +12,7 @@ let styles = {
         borderRadius: "15px",
         padding: "10px",
         color: "#003066",
+        fontFamily: "'IBM Plex Serif', serif"
     },
 
     day: {
@@ -25,7 +26,8 @@ let styles = {
     },
 
     eventText: {
-        color: "#003066"
+        color: "#003066",
+        fontFamily: "'Mukta', sans-serif"        
     },
 
     eventCircle: {

@@ -11,7 +11,7 @@ function Home() {
     return (
         <section id="home">
             <Separator height="10" />
-            <h1>UC Riverside Ultimate Frisbee</h1>
+            <h1 className = "title-font header">UC Riverside Ultimate Frisbee</h1>
             <Separator height="2" />
             <Video/>
                 <Container>
@@ -23,13 +23,12 @@ function Home() {
                         </Col>
                         <Col lg={6} md = {12}>
                             <div className="text">
-                                <h2>Welcome to Highlander Ultimate</h2>
-                                <p>
-                                    We play to better ourselves as athletes and stay in shape. We have fun doing it, and it is a great way to
-                                    meet people from other schools, surrounding communities, and UCR! Undergrads play, graduate students play,
-                                    post-doctorates play, and even professors!
+                                <h2 className = "title-font">Welcome to Ultimate</h2>
+                                <p className = "text-font">
+                                    We play to better ourselves as athletes and it is a great way to meet people from other schools, 
+                                    surrounding communities, and UCR! Undergrads, graduates, post-doctorates, and even professors play!
                                 </p>
-                                <HashLink smooth to="/#join-us" className='navitem'><Button className="joinButton">Join Now!</Button></HashLink>
+                                <HashLink smooth to="/#join-us" className='navitem'><Button className="joinButton text-font">Join Now!</Button></HashLink>
                             </div>
                         </Col>
                     </Row>
