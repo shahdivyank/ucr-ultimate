@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ucr-ultimate/static/css/main.7a4a0443.chunk.css",
-    "main.js": "/ucr-ultimate/static/js/main.97758c45.chunk.js",
-    "main.js.map": "/ucr-ultimate/static/js/main.97758c45.chunk.js.map",
+    "main.js": "/ucr-ultimate/static/js/main.3a4d53cd.chunk.js",
+    "main.js.map": "/ucr-ultimate/static/js/main.3a4d53cd.chunk.js.map",
     "runtime-main.js": "/ucr-ultimate/static/js/runtime-main.48cbf985.js",
     "runtime-main.js.map": "/ucr-ultimate/static/js/runtime-main.48cbf985.js.map",
     "static/css/2.4eaf0b3b.chunk.css": "/ucr-ultimate/static/css/2.4eaf0b3b.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.4eaf0b3b.chunk.css",
     "static/js/2.4dec1103.chunk.js",
     "static/css/main.7a4a0443.chunk.css",
-    "static/js/main.97758c45.chunk.js"
+    "static/js/main.3a4d53cd.chunk.js"
   ]
 }
