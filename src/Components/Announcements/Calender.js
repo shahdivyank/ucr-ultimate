@@ -12,7 +12,7 @@ let styles = {
         borderRadius: "15px",
         padding: "10px",
         color: "#003066",
-        fontFamily: "'IBM Plex Serif', serif"
+        fontFamily: "'IBM Plex Serif', serif",
     },
 
     day: {
@@ -54,7 +54,7 @@ function Calender() {
                 justifyContent: "center",
                 alignItems: "center", 
             }}>
-            <div style={{ width: "90%" }}>
+            <div style={{ width: "90vw" }}>
                 <Calendar apiKey={API_KEY} calendars={calendars} styles={styles} />
             </div>
         </div>
