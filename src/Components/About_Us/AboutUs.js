@@ -13,7 +13,7 @@ function AboutUs() {
                     <Row>
                         <Col className="my-auto" lg={6} md={12}>
                             <div className="aboutText">
-                                <h2 className="aboutUltimate title-font">About UCR Ultimate</h2>
+                                <h2 className="aboutUltimate title-font">About Highlander Ultimate</h2>
                                 <p className="aboutDescription text-font">
                                     We play every Tuesday and Thursday from 8-10pm at the UCR Sports Complex on the corner of Blaine and Canyon Crest.
                                     Haven’t played before!? Neither did we! We have players of all skill levels who know how to throw forehands,

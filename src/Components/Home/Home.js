@@ -24,7 +24,7 @@ function Home() {
                     </Col>
                     <Col lg={6} md={12}>
                         <div className="text">
-                            <h2 className="title-font">Welcome to Ultimate</h2>
+                            <h2 className="title-font">Welcome to Highlander Ultimate</h2>
                             <p className="text-font">
                                 We play to better ourselves as athletes and it is a great way to meet people from other schools,
                                 surrounding communities, and UCR! Undergrads, graduates, post-doctorates, and even professors play!
