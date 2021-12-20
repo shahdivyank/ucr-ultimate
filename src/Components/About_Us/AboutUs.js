@@ -2,6 +2,7 @@ import React from 'react'
 import Separator from '../Header/Separator'
 import "./AboutUs.css"
 import { Container, Row, Col } from 'react-bootstrap';
+import Photo from "./Photos/a_photo_1.jpg"
 
 function AboutUs() {
     return (
@@ -23,7 +24,7 @@ function AboutUs() {
                         </Col>
                         <Col className="my-auto" lg={6} md={12}>
                             <div className='img-container'>
-                                <img className="frontImg" src="https://content.sportslogos.net/news/2020/07/primary-590x344.png" alt="About Us"></img>
+                                <img className="frontImg" src={Photo} alt="About Us"></img>
                             </div>
                         </Col>
                     </Row>
