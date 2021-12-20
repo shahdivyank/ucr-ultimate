@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ucr-ultimate/static/css/main.88d7f608.chunk.css",
+    "main.css": "/ucr-ultimate/static/css/main.57febfd2.chunk.css",
     "main.js": "/ucr-ultimate/static/js/main.e641e5dc.chunk.js",
     "main.js.map": "/ucr-ultimate/static/js/main.e641e5dc.chunk.js.map",
     "runtime-main.js": "/ucr-ultimate/static/js/runtime-main.48cbf985.js",
@@ -12,7 +12,7 @@
     "static/js/3.f55a6e84.chunk.js.map": "/ucr-ultimate/static/js/3.f55a6e84.chunk.js.map",
     "index.html": "/ucr-ultimate/index.html",
     "static/css/2.4eaf0b3b.chunk.css.map": "/ucr-ultimate/static/css/2.4eaf0b3b.chunk.css.map",
-    "static/css/main.88d7f608.chunk.css.map": "/ucr-ultimate/static/css/main.88d7f608.chunk.css.map",
+    "static/css/main.57febfd2.chunk.css.map": "/ucr-ultimate/static/css/main.57febfd2.chunk.css.map",
     "static/js/2.4dec1103.chunk.js.LICENSE.txt": "/ucr-ultimate/static/js/2.4dec1103.chunk.js.LICENSE.txt",
     "static/media/a_photo_1.7c7abad2.jpg": "/ucr-ultimate/static/media/a_photo_1.7c7abad2.jpg",
     "static/media/h_photo_1.80eeef30.jpg": "/ucr-ultimate/static/media/h_photo_1.80eeef30.jpg",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.48cbf985.js",
     "static/css/2.4eaf0b3b.chunk.css",
     "static/js/2.4dec1103.chunk.js",
-    "static/css/main.88d7f608.chunk.css",
+    "static/css/main.57febfd2.chunk.css",
     "static/js/main.e641e5dc.chunk.js"
   ]
 }
