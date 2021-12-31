@@ -13,17 +13,17 @@ function JoinUs() {
                     <Container>
                         <Row>
                             <Col md={6} sm={12}>
-                                <h4 className = "title-font">Join Us!</h4>
-                                <p className = "text-font">
+                                <h4 className="title-font">Join Us!</h4>
+                                <p className="text-font">
                                     Join our Facebook group, <a href="https://www.facebook.com/groups/UCRultimate/" target="_blank" rel="noreferrer">Ultimate Frisbee Riverside</a> Where we communicate about tournaments, teams,
-                                    shirts and discs. Find us on <a href="https://highlanderlink.ucr.edu/organization/ultimatefrisbeeclubatucr" target="_blank" rel="noreferrer">Highlander Link</a>. Before joining, make sure to 
-                                    register at <a href="https://recreation.ucr.edu/competitive-sports/do-sports-easy" rel="noreferrer">Do Sports Easy</a>.
-                                    Before attending practice, make sure to fill out the <a href="https://ucriverside.az1.qualtrics.com/jfe/form/SV_e4AMyHzVMXwrqia" rel="noreferrer">Covid Wellness Survey</a> and bring a water 
+                                    shirts and discs. Find us on <a href="https://highlanderlink.ucr.edu/organization/ultimatefrisbeeclubatucr" target="_blank" rel="noreferrer">Highlander Link</a>. Before joining, make sure to
+                                    register at <a href="https://recreation.ucr.edu/competitive-sports/do-sports-easy" target="_blank" rel="noreferrer">Do Sports Easy</a>.
+                                    Before attending practice, make sure to fill out the <a href="https://ucriverside.az1.qualtrics.com/jfe/form/SV_e4AMyHzVMXwrqia" target="_blank" rel="noreferrer">Covid Wellness Survey</a> and bring a water
                                     bottle, cleats (if possible), and a light and dark shirt.
                                 </p>
                             </Col>
                             <Col md={6} sm={12}>
-                                <h4 className = "title-font">Why Ultimate?</h4>
+                                <h4 className="title-font">Why Ultimate?</h4>
                                 <p className='text-font'>
                                     It isn’t called Ultimate just so it sounds cool.  This game combines the stamina and running of soccer, the quick feet
                                     and agility of football, the defense and hops of basketball, and the smarts and foresight of baseball.  It truly is the

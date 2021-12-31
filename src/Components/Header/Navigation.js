@@ -5,7 +5,7 @@ import { HashLink } from 'react-router-hash-link';
 
 function Navigation() {
     return (
-        <Navbar fixed="top"  collapseOnSelect variant="dark" className="navbar">
+        <Navbar fixed="top" collapseOnSelect variant="dark" className="navbar">
                 <Container >
                     {/* <Navbar.Brand><HashLink smooth to="/#" className='nav-brand navitem'>UCR Ultimate Frisbee</HashLink></Navbar.Brand> */}
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
